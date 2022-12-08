@@ -15,7 +15,7 @@ body{
     z-index: 1;
 }
 .plane:hover {
-    transform: translate(calc(100vw - 600px),0);
+    transform: translate(calc(100vw - 590px),0);
     transition-duration: 4s;
     transition-delay: 0.3s;
     transition-timing-function: linear;
